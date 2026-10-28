@@ -262,4 +262,5 @@ This project provided practical experience with:
 
 GitHub: [shreyashi9789](https://github.com/shreyashi9789)
 
-Repository: [vi-notes-main](https://github.com/shrey
+Repository: [vi-notes-main](https://github.com/shreyashi9789/vi-notes-main)
+
